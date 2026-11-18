@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=800&color=E75480&center=true&vCenter=true&width=520&lines=Data+Analyst+%C2%B7+BI;Data+Scientist+%C2%B7+Applied+AI;Business+%26+System+Analyst;Finance+%26+Accounting+Systems;Data+Management+%26+Quality;Research+%26+M%26E+Analytics" alt="Data Analyst · BI | Data Scientist · Applied AI | Business & System Analyst | Finance & Accounting Systems | Data Management & Quality | Research & M&E Analytics" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=E75480&center=true&vCenter=true&width=600&lines=Ask+better+questions.+Build+better+answers.;From+raw+data+to+real+decisions.;Numbers+tell+stories.+I+make+them+clear.;Where+business%2C+data+and+AI+meet.;Curious+mind.+Data-driven+heart." alt="Ask better questions. Build better answers. | From raw data to real decisions. | Numbers tell stories. I make them clear. | Where business, data and AI meet. | Curious mind. Data-driven heart." />
 </p>
 
 <p align="center">
