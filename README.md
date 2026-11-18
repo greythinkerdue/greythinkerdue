@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" alt="Cecilya Caroline Sianturi" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=E75480&center=true&vCenter=true&width=600&lines=Ask+better+questions.+Build+better+answers.;From+raw+data+to+real+decisions.;Numbers+tell+stories.+I+make+them+clear.;Where+business%2C+data+and+AI+meet.;Curious+mind.+Data-driven+heart." alt="Ask better questions. Build better answers. | From raw data to real decisions. | Numbers tell stories. I make them clear. | Where business, data and AI meet. | Curious mind. Data-driven heart." />
+  <img src="./banner.svg" alt="Ask better questions. Build better answers. | From raw data to real decisions." width="100%" />
 </p>
 
 <p align="center">
