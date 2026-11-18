@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Bogor%2C%20Indonesia-available%20now-C2185B?style=flat-square" alt="Available now" />
 </p>
 
-## 🔎 Query: who is Cecilya?
+## 🔎 Query: who is Cecill?
 
 ```sql
 SELECT name, degree, focus, open_to
